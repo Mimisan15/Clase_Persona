@@ -1,0 +1,15 @@
+C:\Users\ET12Compu\Constructores\obj\Debug\net7.0\Constructores.csproj.AssemblyReference.cache
+C:\Users\ET12Compu\Constructores\obj\Debug\net7.0\Constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET12Compu\Constructores\obj\Debug\net7.0\Constructores.AssemblyInfoInputs.cache
+C:\Users\ET12Compu\Constructores\obj\Debug\net7.0\Constructores.AssemblyInfo.cs
+C:\Users\ET12Compu\Constructores\obj\Debug\net7.0\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\ET12Compu\Constructores\bin\Debug\net7.0\Constructores.exe
+C:\Users\ET12Compu\Constructores\bin\Debug\net7.0\Constructores.deps.json
+C:\Users\ET12Compu\Constructores\bin\Debug\net7.0\Constructores.runtimeconfig.json
+C:\Users\ET12Compu\Constructores\bin\Debug\net7.0\Constructores.dll
+C:\Users\ET12Compu\Constructores\bin\Debug\net7.0\Constructores.pdb
+C:\Users\ET12Compu\Constructores\obj\Debug\net7.0\Constructores.dll
+C:\Users\ET12Compu\Constructores\obj\Debug\net7.0\refint\Constructores.dll
+C:\Users\ET12Compu\Constructores\obj\Debug\net7.0\Constructores.pdb
+C:\Users\ET12Compu\Constructores\obj\Debug\net7.0\Constructores.genruntimeconfig.cache
+C:\Users\ET12Compu\Constructores\obj\Debug\net7.0\ref\Constructores.dll
